@@ -1,4 +1,4 @@
-Project Title: Sports-Injury-Analysis
+#Sports-Injury-Analysis
 Group Members:
 Pratham Takoliya - KU2407u168
 Karthik Nandamuri - Ku2407U1
