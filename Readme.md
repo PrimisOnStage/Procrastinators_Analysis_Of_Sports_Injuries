@@ -4,7 +4,8 @@ Group Members:
 - Pratham Takoliya - KU2407u168  
 - Karthik Nandamuri - KU2407U102  
 - Ravi Shrimali - KU2407U841  
-- Tejas Thacker - KU2407U827  
+- Tejas Thacker - KU2407U217. 
+- Agastya Borana - KU2407U827. 
   
 
 Objective of the Project:  
